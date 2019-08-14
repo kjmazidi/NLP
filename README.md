@@ -1,2 +1,2 @@
 # NLP
-Materials for CS 4395 Human Language Technologies
+Code Examples for CS 4395 Human Language Technologies
