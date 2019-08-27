@@ -1,0 +1,5 @@
+Michael      23.1 normal weight 
+Simone       19.0 normal weight 
+Janice       25.4 overweight 
+Nabil        26.1 overweight 
+Muhammad     32.3 obese 
