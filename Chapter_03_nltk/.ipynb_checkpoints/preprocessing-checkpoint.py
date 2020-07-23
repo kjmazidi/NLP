@@ -2,10 +2,12 @@
 # Karen Mazidi
 # September 2018
 
+import nltk
 from nltk import word_tokenize
-from nltk.stem.porter import PorterStemmer
+from nltk.stem.porter import *
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
+import string
 import re
 
 
@@ -25,7 +27,7 @@ def preprocess(raw_text):
     text = re.sub(r'[.?!,:;()\-\n\d]',' ', raw_text.lower())
 
     # tokenizing extracts words, not white space
-    tokens = word_tokenize(text)
+    tokens = nltk.word_tokenize(text)
 
     # stemming removes affixes from words.
     stemmer = PorterStemmer()
@@ -41,7 +43,7 @@ def preprocess(raw_text):
     return text, tokens, stemmed, lemmas, content
 
 
-if __name__ == "__main__":
+def driver():
     raw_text = """ I teach at the University of Texas at Dallas. I
      started teaching there in 2016. UTD has a growing and dynamic 
      computer science department!"""
@@ -53,5 +55,8 @@ if __name__ == "__main__":
     print('\nStems:\n\t', stemmed)
     print('\nLemmas:\n\t', lemmas)
     print('\nStopwords removed:\n\t', content)
+
+if __name__ == "__main__":
+    driver()
 
 
