@@ -1,0 +1,182 @@
+           Mike	       NNP	      S-NP	     S-PER	              -	      S-A1	         O	(S1(S(S(NP*)
+             is	       VBZ	      S-VP	         O	             is	       S-V	         O	(VP*
+             my	      PRP$	      B-NP	         O	              -	      B-A1	         O	(NP*
+        brother	        NN	      E-NP	         O	              -	      E-A1	         O	*)))
+            and	        CC	         O	         O	              -	         O	         O	*
+             he	       PRP	      S-NP	         O	              -	         O	      S-A0	(S(NP*)
+          lives	       VBZ	      S-VP	         O	          lives	         O	       S-V	(VP*
+             in	        IN	      S-PP	         O	              -	         O	  B-AM-LOC	(PP*
+          Texas	       NNP	      S-NP	     S-LOC	              -	         O	  E-AM-LOC	(NP*))))
+              .	         .	         O	         O	              -	         O	         O	*))
+
+     Ransomware	       NNP	      S-NP	     S-PER	              -	      S-A0	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(S1(S(NP*)
+        usually	        RB	    S-ADVP	         O	              -	  S-AM-TMP	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(ADVP*)
+        infects	       VBZ	      S-VP	         O	        infects	       S-V	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              a	        DT	      B-NP	         O	              -	      B-A1	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP*
+       computer	        NN	      E-NP	         O	              -	      E-A1	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*)
+           when	       WRB	    S-ADVP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(SBAR(WHADVP*)
+              a	        DT	      B-NP	         O	              -	         O	      B-A0	         O	         O	         O	         O	         O	         O	         O	         O	         O	(S(NP*
+           user	        NN	      E-NP	         O	              -	         O	      E-A0	         O	         O	         O	         O	         O	         O	         O	         O	         O	*)
+          opens	       VBZ	      S-VP	         O	          opens	         O	       S-V	         O	         O	         O	         O	         O	         O	         O	         O	         O	(VP*
+              a	        DT	      B-NP	         O	              -	         O	      B-A1	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP*
+       phishing	        NN	      I-NP	         O	              -	         O	      I-A1	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+          email	        NN	      E-NP	         O	              -	         O	      E-A1	         O	         O	         O	         O	         O	         O	         O	         O	         O	*))))
+            and	        CC	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	(S(PRN*
+       although	        IN	    S-SBAR	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	  B-AM-ADV	  B-AM-ADV	         O	(SBAR*
+           such	        JJ	      B-NP	         O	              -	         O	         O	      B-A0	      B-A1	      B-A1	      B-A1	         O	         O	  I-AM-ADV	  I-AM-ADV	         O	(S(NP*
+         emails	       NNS	      E-NP	         O	              -	         O	         O	      E-A0	      E-A1	      E-A1	      E-A1	         O	         O	  I-AM-ADV	  I-AM-ADV	         O	*)
+           have	       VBP	      B-VP	         O	           have	         O	         O	       S-V	         O	         O	         O	         O	         O	  I-AM-ADV	  I-AM-ADV	         O	(VP*
+           been	       VBN	      I-VP	         O	           been	         O	         O	         O	       S-V	         O	         O	         O	         O	  I-AM-ADV	  I-AM-ADV	         O	(VP*
+        alleged	       VBN	      I-VP	         O	        alleged	         O	         O	         O	      B-A3	       S-V	         O	         O	         O	  I-AM-ADV	  I-AM-ADV	         O	(VP*
+             to	        TO	      I-VP	         O	              -	         O	         O	         O	      I-A3	    B-C-A1	         O	         O	         O	  I-AM-ADV	  I-AM-ADV	         O	(S(VP*
+             be	        VB	      I-VP	         O	             be	         O	         O	         O	      I-A3	    I-C-A1	       S-V	         O	         O	  I-AM-ADV	  I-AM-ADV	         O	(VP*
+           used	       VBN	      E-VP	         O	           used	         O	         O	         O	      I-A3	    I-C-A1	    B-C-A1	       S-V	         O	  I-AM-ADV	  I-AM-ADV	         O	(VP*
+             to	        TO	      B-VP	         O	              -	         O	         O	         O	      I-A3	    I-C-A1	    I-C-A1	      B-A2	         O	  I-AM-ADV	  I-AM-ADV	         O	(S(VP*
+         infect	        VB	      E-VP	         O	         infect	         O	         O	         O	      I-A3	    I-C-A1	    I-C-A1	      I-A2	       S-V	  I-AM-ADV	  I-AM-ADV	         O	(VP*
+       machines	       NNS	      S-NP	         O	              -	         O	         O	         O	      I-A3	    I-C-A1	    I-C-A1	      I-A2	      S-A1	  I-AM-ADV	  I-AM-ADV	         O	(NP*)
+           with	        IN	      S-PP	         O	              -	         O	         O	         O	      I-A3	    I-C-A1	    I-C-A1	      I-A2	  B-AM-MNR	  I-AM-ADV	  I-AM-ADV	         O	(PP*
+       WannaCry	       NNP	      S-NP	    S-MISC	              -	         O	         O	         O	      E-A3	    E-C-A1	    E-C-A1	      E-A2	  E-AM-MNR	  E-AM-ADV	  E-AM-ADV	         O	(NP*))))))))))))))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*)
+           this	        DT	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      B-A1	      B-A1	      B-A1	(NP(NP*
+         method	        NN	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	      I-A1	      I-A1	*)
+             of	        IN	      S-PP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	      I-A1	      I-A1	(PP*
+         attack	        NN	      S-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      E-A1	      E-A1	      E-A1	(NP*)))
+            has	       VBZ	      B-VP	         O	            has	         O	         O	         O	         O	         O	         O	         O	         O	       S-V	         O	         O	(VP*
+            not	        RB	      I-VP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	      B-A1	  S-AM-NEG	  S-AM-NEG	*
+           been	       VBN	      I-VP	         O	           been	         O	         O	         O	         O	         O	         O	         O	         O	      I-A1	       S-V	         O	(VP*
+      confirmed	       VBN	      E-VP	         O	      confirmed	         O	         O	         O	         O	         O	         O	         O	         O	      E-A1	    S-C-A1	       S-V	(VP*))))
+              .	         .	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	         O	*))
+
+           Once	        RB	      B-VP	         O	              -	  S-AM-TMP	  B-AM-ADV	         O	         O	         O	         O	         O	         O	(S1(S(ADVP*)
+      installed	       VBN	      E-VP	         O	      installed	       S-V	  E-AM-ADV	         O	         O	         O	         O	         O	         O	(S(VP*))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	*
+       WannaCry	       NNP	      S-NP	     S-PER	              -	      S-A1	      S-A0	         O	         O	         O	         O	         O	         O	(NP*)
+           uses	       VBZ	      S-VP	         O	           uses	         O	       S-V	         O	         O	         O	         O	         O	         O	(VP*
+            the	        DT	      B-NP	         O	              -	         O	      B-A1	      B-A1	         O	      B-A0	         O	         O	         O	(NP(NP*
+    EternalBlue	       NNP	      I-NP	    S-MISC	              -	         O	      I-A1	      I-A1	         O	      I-A0	         O	         O	         O	*
+        exploit	        NN	      I-NP	         O	              -	         O	      I-A1	      I-A1	         O	      I-A0	         O	         O	         O	*
+            and	        CC	      I-NP	         O	              -	         O	      I-A1	      I-A1	         O	      I-A0	         O	         O	         O	*
+   DoublePulsar	       NNP	      I-NP	    S-MISC	              -	         O	      I-A1	      I-A1	         O	      I-A0	         O	         O	         O	*
+       backdoor	        NN	      E-NP	         O	              -	         O	      I-A1	      E-A1	         O	      I-A0	         O	         O	         O	*)
+      developed	       VBN	      S-VP	         O	      developed	         O	      I-A1	       S-V	         O	      I-A0	         O	         O	         O	(VP*
+             by	        IN	      S-PP	         O	              -	         O	      I-A1	      B-A0	         O	      I-A0	         O	         O	         O	(PP*
+            the	        DT	      B-NP	         O	              -	         O	      I-A1	      I-A0	         O	      I-A0	         O	         O	         O	(NP(NP*
+           U.S.	       NNP	      I-NP	     B-ORG	              -	         O	      I-A1	      I-A0	         O	      I-A0	         O	         O	         O	*
+       National	       NNP	      I-NP	     I-ORG	              -	         O	      I-A1	      I-A0	         O	      I-A0	         O	         O	         O	*
+       Security	       NNP	      I-NP	     I-ORG	              -	         O	      I-A1	      I-A0	         O	      I-A0	         O	         O	         O	*
+         Agency	       NNP	      E-NP	     E-ORG	              -	         O	      I-A1	      I-A0	         O	      I-A0	         O	         O	         O	*)
+              (	     -LRB-	         O	         O	              -	         O	      I-A1	      I-A0	         O	      I-A0	         O	         O	         O	(PRN*
+            NSA	       NNP	      S-NP	     S-ORG	              -	         O	      I-A1	      I-A0	      S-A1	      I-A0	         O	         O	         O	(NP*)
+              )	     -RRB-	         O	         O	              -	         O	      E-A1	      E-A0	         O	      I-A0	         O	         O	         O	*)))
+             to	        TO	      B-VP	         O	              -	         O	      B-A2	         O	         O	      I-A0	         O	         O	         O	(S(VP*
+         spread	        VB	      E-VP	         O	         spread	         O	      I-A2	         O	       S-V	      I-A0	         O	         O	         O	(VP*
+        through	        IN	      S-PP	         O	              -	         O	      I-A2	         O	      B-A0	      I-A0	         O	         O	         O	(PP*
+          local	        JJ	      B-NP	         O	              -	         O	      I-A2	         O	      I-A0	      I-A0	      B-A1	      B-A1	         O	(NP(NP*
+       networks	       NNS	      E-NP	         O	              -	         O	      I-A2	         O	      I-A0	      I-A0	      I-A1	      I-A1	         O	*)
+            and	        CC	         O	         O	              -	         O	      I-A2	         O	      I-A0	      I-A0	      I-A1	      I-A1	         O	(SBAR(S*
+         remote	        JJ	      B-NP	         O	              -	         O	      I-A2	         O	      I-A0	      I-A0	      I-A1	      I-A1	         O	(VP(NX*
+          hosts	       NNS	      E-NP	         O	              -	         O	      I-A2	         O	      I-A0	      E-A0	      E-A1	      E-A1	         O	*)
+              ,	         ,	         O	         O	              -	         O	      I-A2	         O	      I-A0	         O	         O	         O	         O	*
+           that	       WDT	      S-NP	         O	              -	         O	      I-A2	         O	      I-A0	    S-R-A0	    S-R-A1	    S-R-A1	    S-R-A0	(SBAR(WHNP*)
+           have	       VBP	      B-VP	         O	           have	         O	      I-A2	         O	      I-A0	       S-V	         O	         O	         O	(S(VP*
+            not	        RB	      I-VP	         O	              -	         O	      I-A2	         O	      I-A0	      B-A1	  S-AM-NEG	  S-AM-NEG	         O	*
+           been	       VBN	      I-VP	         O	           been	         O	      I-A2	         O	      I-A0	      I-A1	       S-V	         O	         O	(VP*
+        updated	       VBN	      E-VP	         O	        updated	         O	      I-A2	         O	      I-A0	      I-A1	         O	       S-V	         O	(VP*
+           with	        IN	      S-PP	         O	              -	         O	      I-A2	         O	      I-A0	      I-A1	         O	      B-A3	         O	(PP*
+            the	        DT	      B-NP	         O	              -	         O	      I-A2	         O	      I-A0	      I-A1	         O	      I-A3	         O	(NP*
+           most	       RBS	      I-NP	         O	              -	         O	      I-A2	         O	      I-A0	      I-A1	         O	      I-A3	         O	*
+         recent	        JJ	      I-NP	         O	              -	         O	      I-A2	         O	      I-A0	      I-A1	         O	      I-A3	         O	*
+       security	        NN	      I-NP	         O	              -	         O	      I-A2	         O	      I-A0	      I-A1	         O	      I-A3	         O	*
+        updates	       NNS	      E-NP	         O	              -	         O	      I-A2	         O	      I-A0	      I-A1	         O	      E-A3	         O	*))
+              ,	         ,	         O	         O	              -	         O	      I-A2	         O	      I-A0	      I-A1	         O	         O	         O	*
+             to	        TO	      B-VP	         O	              -	         O	      I-A2	         O	      I-A0	      I-A1	         O	         O	         O	(S(VP*
+       directly	        RB	      I-VP	         O	              -	         O	      I-A2	         O	      I-A0	      I-A1	         O	         O	  S-AM-MNR	(VP(ADVP*)
+         infect	        VB	      E-VP	         O	         infect	         O	      I-A2	         O	      I-A0	      I-A1	         O	         O	       S-V	*
+            any	        DT	      B-NP	         O	              -	         O	      I-A2	         O	      I-A0	      I-A1	         O	         O	      B-A1	(NP*
+        exposed	        JJ	      I-NP	         O	              -	         O	      I-A2	         O	      I-A0	      I-A1	         O	         O	      I-A1	*
+        systems	       NNS	      E-NP	         O	              -	         O	      E-A2	         O	      E-A0	      E-A1	         O	         O	      E-A1	*))))))))))))))))))))
+              .	         .	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	*))
+
+              A	        DT	      B-NP	         O	              -	      B-A0	      B-A1	      B-A1	      B-A0	         O	         O	         O	(S1(S(S(NP*
+              "	        JJ	      I-NP	         O	              -	      I-A0	      I-A1	      I-A1	      I-A0	         O	         O	         O	*
+       critical	        JJ	      I-NP	         O	              -	      I-A0	      I-A1	      I-A1	      I-A0	         O	         O	         O	*
+              "	        JJ	      I-NP	         O	              -	      I-A0	      I-A1	      I-A1	      I-A0	         O	         O	         O	*
+          patch	        NN	      E-NP	         O	              -	      E-A0	      E-A1	      E-A1	      E-A0	         O	         O	         O	*)
+            had	       VBD	      B-VP	         O	            had	       S-V	         O	         O	         O	         O	         O	         O	(VP*
+           been	       VBN	      I-VP	         O	           been	         O	       S-V	         O	         O	         O	         O	         O	(VP*
+         issued	       VBN	      E-VP	         O	         issued	         O	      B-A3	       S-V	         O	         O	         O	         O	(VP*
+             by	        IN	      S-PP	         O	              -	         O	      I-A3	      B-A0	         O	         O	         O	         O	(PP*
+      Microsoft	       NNP	      S-NP	     S-ORG	              -	         O	      I-A3	      E-A0	         O	         O	         O	         O	(NP*))
+             on	        IN	      S-PP	         O	              -	         O	      I-A3	  B-AM-TMP	         O	         O	         O	         O	(PP*
+             14	        CD	      B-NP	         O	              -	         O	      I-A3	  I-AM-TMP	         O	         O	         O	         O	(NP*
+          March	       NNP	      I-NP	         O	              -	         O	      I-A3	  I-AM-TMP	         O	         O	         O	         O	*
+           2017	        CD	      E-NP	         O	              -	         O	      I-A3	  E-AM-TMP	         O	         O	         O	         O	*))
+             to	        TO	      B-VP	         O	              -	         O	      I-A3	      B-A3	         O	         O	         O	         O	(S(VP*
+         remove	        VB	      E-VP	         O	         remove	         O	      I-A3	      I-A3	       S-V	         O	         O	         O	(VP*
+            the	        DT	      B-NP	         O	              -	         O	      I-A3	      I-A3	      B-A1	         O	         O	         O	(NP*
+     underlying	        JJ	      I-NP	         O	              -	         O	      I-A3	      I-A3	      I-A1	         O	         O	         O	*
+  vulnerability	        NN	      E-NP	         O	              -	         O	      I-A3	      I-A3	      I-A1	         O	         O	         O	*)
+            for	        IN	      S-PP	         O	              -	         O	      I-A3	      I-A3	      I-A1	         O	         O	         O	(PP*
+      supported	       VBN	      B-NP	         O	      supported	         O	      I-A3	      I-A3	      I-A1	       S-V	         O	         O	(S(VP*
+        systems	       NNS	      E-NP	         O	              -	         O	      I-A3	      I-A3	      I-A1	      S-A1	         O	         O	(NP*))))
+              ,	         ,	         O	         O	              -	         O	      I-A3	      I-A3	      I-A1	         O	         O	         O	*
+         nearly	        RB	      B-NP	         O	              -	         O	      I-A3	      I-A3	      I-A1	         O	         O	         O	(NP(NP(QP*
+            two	        CD	      I-NP	         O	              -	         O	      I-A3	      I-A3	      I-A1	         O	         O	         O	*)
+         months	       NNS	      E-NP	         O	              -	         O	      I-A3	      I-A3	      I-A1	         O	         O	         O	*)
+         before	        IN	    S-SBAR	         O	              -	         O	      I-A3	      I-A3	      I-A1	         O	         O	         O	(PP*
+            the	        DT	      B-NP	         O	              -	         O	      I-A3	      I-A3	      I-A1	         O	         O	         O	(NP*
+         attack	        NN	      E-NP	         O	              -	         O	      I-A3	      E-A3	      E-A1	         O	         O	         O	*))))))))))
+              ,	         ,	         O	         O	              -	         O	      I-A3	         O	         O	         O	         O	         O	*
+            but	        CC	         O	         O	              -	         O	      I-A3	         O	         O	         O	         O	         O	*
+           many	        JJ	      B-NP	         O	              -	         O	      I-A3	         O	         O	         O	      B-A0	      B-A0	(S(NP*
+  organizations	       NNS	      E-NP	         O	              -	         O	      I-A3	         O	         O	         O	      E-A0	      E-A0	*)
+            had	       VBD	      B-VP	         O	            had	         O	      I-A3	         O	         O	         O	       S-V	         O	(VP*
+            not	        RB	      I-VP	         O	              -	         O	      I-A3	         O	         O	         O	      B-A1	  S-AM-NEG	*
+            yet	        RB	      I-VP	         O	              -	         O	      I-A3	         O	         O	         O	      I-A1	  S-AM-TMP	(ADVP*)
+        applied	       VBN	      E-VP	         O	        applied	         O	      I-A3	         O	         O	         O	      I-A1	       S-V	(VP*
+            it.	         .	    S-ADJP	         O	              -	         O	      E-A3	         O	         O	         O	      E-A1	      S-A2	(NP*))))))
+
+          Those	        DT	      S-NP	         O	              -	      S-A0	      S-A1	      B-A1	      B-A1	         O	         O	         O	(S1(S(S(NP*)
+          still	        RB	      B-VP	         O	              -	  S-AM-TMP	  S-AM-TMP	      I-A1	      I-A1	         O	         O	         O	(ADVP*)
+        running	       VBG	      I-VP	         O	        running	       S-V	         O	      I-A1	      I-A1	         O	         O	         O	(VP*
+        exposed	       VBN	      E-VP	         O	        exposed	      B-A1	       S-V	      I-A1	      I-A1	         O	         O	         O	(S(VP*
+          older	       JJR	    S-ADJP	         O	              -	      I-A1	      B-A1	      I-A1	      I-A1	         O	         O	         O	(S(ADJP*))))))
+              ,	         ,	         O	         O	              -	      I-A1	      I-A1	      I-A1	      I-A1	         O	         O	         O	*
+    unsupported	        JJ	      B-NP	         O	              -	      I-A1	      I-A1	      I-A1	      I-A1	         O	         O	         O	(S(NP(NP*
+      operating	        NN	      I-NP	         O	              -	      I-A1	      I-A1	      I-A1	      I-A1	         O	         O	         O	*
+        systems	       NNS	      E-NP	         O	              -	      I-A1	      I-A1	      I-A1	      I-A1	         O	         O	         O	*)
+           such	        JJ	      B-PP	         O	              -	      I-A1	      I-A1	      I-A1	      I-A1	         O	         O	         O	(PP*
+             as	        IN	      E-PP	         O	              -	      I-A1	      I-A1	      I-A1	      I-A1	         O	         O	         O	*
+        Windows	       NNP	      B-NP	     B-ORG	              -	      I-A1	      I-A1	      I-A1	      I-A1	         O	         O	         O	(NP*
+             XP	       NNP	      I-NP	     E-ORG	              -	      I-A1	      I-A1	      I-A1	      I-A1	         O	         O	         O	*
+            and	        CC	      I-NP	         O	              -	      I-A1	      I-A1	      I-A1	      I-A1	         O	         O	         O	*
+        Windows	       NNP	      I-NP	     B-ORG	              -	      I-A1	      I-A1	      I-A1	      I-A1	         O	         O	         O	*
+         Server	       NNP	      I-NP	     E-ORG	              -	      I-A1	      I-A1	      I-A1	      I-A1	         O	         O	         O	*
+           2003	        CD	      E-NP	         O	              -	      I-A1	      I-A1	      I-A1	      E-A1	         O	         O	         O	*)))
+              ,	         ,	         O	         O	              -	      E-A1	      E-A1	      E-A1	         O	         O	         O	         O	*
+           were	       VBD	      S-VP	         O	           were	         O	         O	       S-V	         O	         O	         O	         O	(VP*
+      initially	        RB	    S-ADVP	         O	              -	         O	         O	  S-AM-TMP	         O	         O	         O	         O	(ADVP*)
+             at	        IN	      S-PP	         O	              -	         O	         O	  B-AM-MNR	         O	         O	         O	         O	(PP*
+     particular	        JJ	      B-NP	         O	              -	         O	         O	  I-AM-MNR	         O	         O	         O	         O	(NP*
+           risk	        NN	      E-NP	         O	              -	         O	         O	  E-AM-MNR	         O	         O	         O	         O	*))))
+            but	        CC	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	*
+      Microsoft	       NNP	      S-NP	     S-ORG	              -	         O	         O	         O	      S-A0	      S-A0	      S-A0	         O	(S(NP*)
+            has	       VBZ	      B-VP	         O	            has	         O	         O	         O	       S-V	         O	         O	         O	(VP*
+            now	        RB	      I-VP	         O	              -	         O	         O	         O	  S-AM-TMP	  S-AM-TMP	         O	         O	(ADVP*)
+          taken	       VBN	      E-VP	         O	          taken	         O	         O	         O	      B-A1	       S-V	         O	         O	(VP*
+            the	        DT	      B-NP	         O	              -	         O	         O	         O	      I-A1	      B-A1	         O	         O	(NP(NP*
+        unusual	        JJ	      I-NP	         O	              -	         O	         O	         O	      I-A1	      I-A1	         O	         O	*
+           step	        NN	      E-NP	         O	              -	         O	         O	         O	      I-A1	      I-A1	         O	         O	*)
+             of	        IN	      S-PP	         O	              -	         O	         O	         O	      I-A1	      I-A1	         O	         O	(PP*
+      releasing	       VBG	      S-VP	         O	      releasing	         O	         O	         O	      I-A1	      I-A1	       S-V	         O	(S(VP*
+        updates	       NNS	      S-NP	         O	              -	         O	         O	         O	      I-A1	      I-A1	      B-A1	         O	(NP(NP*)
+            for	        IN	      S-PP	         O	              -	         O	         O	         O	      I-A1	      I-A1	      I-A1	         O	(PP*
+          these	        DT	      B-NP	         O	              -	         O	         O	         O	      I-A1	      I-A1	      I-A1	         O	(NP*
+      operating	       VBG	      I-NP	         O	      operating	         O	         O	         O	      I-A1	      I-A1	      I-A1	       S-V	*
+        systems	       NNS	      E-NP	         O	              -	         O	         O	         O	      I-A1	      I-A1	      I-A1	      S-A0	*)))
+            for	        IN	      S-PP	         O	              -	         O	         O	         O	      I-A1	      I-A1	      I-A1	         O	(PP*
+            all	        DT	      B-NP	         O	              -	         O	         O	         O	      I-A1	      I-A1	      I-A1	         O	(NP*
+      customers	       NNS	      E-NP	         O	              -	         O	         O	         O	      E-A1	      E-A1	      E-A1	         O	*)))))))))
+              .	         .	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	*))
+
