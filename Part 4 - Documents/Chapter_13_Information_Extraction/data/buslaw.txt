@@ -1,0 +1,376 @@
+16.1 Theory of Contract Remedies
+Purpose of Remedies
+The fundamental purpose of remedies in noncriminal cases is not to punish the breaching party but—if possible—to put the nonbreaching party in the position he or she would have been in had there been no breach.
+Or, as is said, the purpose is to make the nonbreaching party whole.
+There are two general categories of remedies—legal and equitable.
+In the category of legal remedies
+are damages.
+Damages are money paid by one party to another; there are several types of damages.
+In the category of equitable remedies are these three:specific performance, which means a person is ordered to deliver a unique thing (land or a unique personal property, such as a painting or an antique
+car);injunction, a judicial order directing a person to stop doing what he or she should not do (such as competing with a former employer in violation of a noncompete agreement); and restitution, which means putting the parties back into the position they were in before the contract was made.
+Parties Have the Power—but Not the Right—to Breach
+In view of the importance given to the intention of the parties in forming and interpreting contracts, it may seem surprising that the remedy for every breach is not a judicial order that the obligor carry out his or her undertakings.
+But it is not.
+Of course, some duties cannot be performed after a breach, because time and circumstances will have altered their purpose and rendered many worthless.
+Still, there are numerous occasions on which it would be theoretically possible for courts to order the parties to carry out their contracts, yet the courts will not do it.
+In 1897, Justice Oliver Wendell Holmes Jr.
+declared in a famous line that “the duty to keep a contract at common law means a prediction that you must pay damages if you do not keep it.” By that, he meant simply that the common law looks more toward compensating the promisee for his or her loss than toward compelling the promisor to perform.
+Indeed, the law of remedies often provides the parties with an incentive to break the contract.
+In short, the promisor has a choice: perform or pay.
+The logic of this position is clear in many typical cases.
+The computer manufacturer orders specially
+designed circuit boards, then discovers before the circuits are made that a competitor has built a better machine and destroyed his market.
+The manufacturer cancels the order.
+It would make little economic sense for the circuit board maker to fabricate the boards if they could not be used elsewhere.
+A damage remedy to compensate the maker for out-of-pocket loss or lost profits is sensible; a judicial decree forcing the computer manufacturer to pay for and take delivery of the boards would be wasteful.
+In general and if possible, the fundamental purpose of contract remedies is to put the nonbreaching party in the position it would have been in had there been no breach.
+16.2 Promisee’s Interests Protected by Contract
+Contract remedies serve to protect three different interests: an expectation interest, a reliance interest, and a restitution interest.
+A promisee will have one of these and may have two or all three.
+An expectation interest is the benefit for which the promisee bargained, and the remedy is to put him in a position as good as that which he would have been in had the contract been performed.
+A reliance interest is the loss suffered by relying on the contract and taking actions consistent with the expectation that the other party will abide by it; the
+remedy is reimbursement that restores the promisee to his position before the contract was made.
+A restitution interest is that which restores to the promisee any benefit he conferred on the promisor.
+These interests do not dictate the outcome according to a rigid formula; circumstances and the nature of the contract, as usual, will play a large role.
+But in general, specific performance is a remedy that addresses the expectation interest, monetary damages address all three interests, and, not surprisingly, restitution addresses the restitution interest.
+Consider some simple examples.
+A landowner repudiates an executory contract with a builder to construct a garage on her property for $100,000.
+The builder had anticipated a $10,000 profit (the garage would have cost him $90,000 to build).
+What can he expect to recover in a lawsuit against the owner?
+The court will not order the garage to be built; such an order would be wasteful, since the owner no longer wants it and may not be able to pay for it.
+Instead, the court will look to the builder’s three possible interests.
+Since the builder has not yet started his work, he has given the owner nothing, and therefore has no restitution interest.
+Nor has he any reliance interest, since we are assuming that he has not paid out any money for supplies, hired a work crew, or advanced money to subcontractors.
+But he anticipated a profit, and so he has an expectation interest of $10,000.
+Now suppose that the builder had dug out the foundation and poured concrete, at a cost of $15,000.
+His expectation interest has become $25,000 (the difference between $100,000 and $75,000, the money he will save by not having to finish the job).
+His reliance interest is $15,000, because this is the amount he has already spent.
+He may also have a restitution interest, depending on how much the foundation of the house is worth to the owner.
+(The value could be more or less than the sum of money actually expended to produce the foundation; for example, the builder might have had to pay his subcontractors for a greater share of the job than they had completed, and those sums therefore would not be reflected in the worth of the foundation.
+)
+Normally, the promisee will choose which of the three interests to pursue.
+As is to be expected, the choice hinges on the circumstances of the case, his feelings, and the amount at stake.
+16.3 Legal Remedies: Damages
+Overview
+The promisee, whom we will hereafter refer to as the nonbreaching party, has the right to damages (a money award), if that is required to make her whole, whenever the other party has breached the contract, unless, of course, the contract itself or other circumstances suspend or discharge that
+right.
+Damages refers to money paid by one side to the other; it is a legal remedy.
+For historical and political reasons in the development of the English legal system, the courts of law were originally only able to grant monetary relief.
+If a petitioner wanted something other than money, recourse to a separate
+system of equity was required.
+The courtrooms and proceedings for each were separate.
+That actual separation is long gone, but the distinction is still recognized; a judge may be said to be “sitting in law” or “sitting in equity,” or a case may involve requests for both money and some action.
+We take up the legal remedies of damages first.
+Types of Damages
+There are six different types of damages: compensatory, incidental, consequential, nominal, liquidated, and (sometimes) punitive.
+Compensatory Damages
+Damages paid to directly compensate the nonbreaching party for the value of what was not done or performed are compensatory damages.
+Sometimes calculating that value of the promisor’s performance is easy—for example, when the nonbreaching party has ascertainable costs and profits, as in the case of the builder who would have earned $10,000 profit on a $100,000 house.
+When the performance is a service, a useful measure of loss is what it would cost to substitute performance by someone else.
+But the calculation is frequently difficult, especially when the performance is a service that is not easily duplicated.
+If Rembrandt breached a contract to paint your portrait, the loss could not be measured simply by inquiring how much Van Gogh would charge to do the same thing.
+Nevertheless, in theory,
+whatever net value would ultimately have been conferred on the nonbreaching party is the proper measure of compensatory damages.
+An author whose publisher breaches its contract to publish the book and who cannot find another publisher is entitled to lost royalties (if ascertainable) plus the value that would have accrued from her enhanced reputation.
+Since the nonbreaching party usually has obligations under the contract also, a breach by the other party discharges his duty to perform and may result in savings.
+Or he may have made substitute arrangements and realized at least a partial profit on the substitution.
+Or, as in the case of the builder, he may have purchased goods intended for the job that can be used elsewhere.
+In all these situations, the losses he has avoided—savings, profits, or value of goods—are subtracted from the losses incurred to arrive at the net damages.
+The nonbreaching party may recover his actual losses, not more.
+Suppose an employer breaches a contract with a prospective employee who was to begin work for a year at a salary of $35,000.
+The employee quickly finds other, similar work at a salary of $30,000.
+Aside from whatever he might have had
+to spend searching for the job (incidental damages), his compensatory damages are limited to $5,000, the difference between what he would have earned and what he is earning.
+Lost volume can be a troublesome problem in calculating damages.
+This problem arises when the nonbreaching party, a supplier of goods or services, enters a second contract when the buyer repudiates.
+The question is whether the second contract is a substituted performance or an additional one.
+If it is substituted, damages may be little or nothing; if additional, the entire expectation interest may be recovered.
+An automobile dealer contracts to sell a car in his inventory.
+Shortly before the deal is closed, the buyer calls up and repudiates the contract.
+The dealer then sells the car to someone else.
+If the dealer can show that he could have sold an identical car to the second purchaser regardless of what the first purchaser did, then the second sale stands on its own and cannot be used to offset the net profit recoverable from the first purchaser.
+The factual inquiry in lost volume cases is whether the nonbreaching party would have engaged in the second transaction if the breach had never occurred.
+Incidental Damages
+In addition to compensatory damages, the nonbreaching party may recoverincidental damages.
+Incidental loss includes expenditures that the nonbreaching party incurs in attempting to minimize the loss that flows from the breach.
+To arrange for substitute goods or services, the nonbreaching party might have to
+pay a premium or special fees to locate another supplier or source of work.
+Consequential Damages
+A consequential loss is addressed with consequential damages.
+These are damages incurred by the nonbreaching party without action on his part because of the breach.
+For example, if Ralph does a poor job of plumbing Betty’s bathroom and the toilet leaks, damaging the floor, the downstairs ceiling, and the downstairs rug, Ralph would owe for those loses in consequential damages.
+Or, again, lost sales stemming from a failure to fix a manufacturer’s machine in time or physical and property injury due to a defective machine sold by the promisor would be addressed with consequential damages.
+Note, however, that one obvious, and often large, expenditure occasioned by a breach—namely, legal expenses in bringing a lawsuit to remedy the particular breach—is not an element of damages, unless the contract explicitly states that it is, and cannot be charged to the defendant.
+There is one situation, however, in which legal costs can be added to damages: when the breach causes the nonbreaching party to be involved in a lawsuit with someone else.
+Consequential damages will not be allowed if those damages are not foreseeable.
+This
+issue is taken up in Section 16.5 "Limitations on Contract Remedies".
+Nominal Damages
+In the situation where there has been a breach but the nonbreaching party has really suffered no loss or cannot prove what his loss is, he is entitled to nominal damages.
+Ricardo contracts to buy a new car from a dealer; the dealer breaches the contract.
+Ricardo finds and buys the same car from another dealer at the same price that the first one was to sell it for.
+Ricardo has suffered nominal damages: five dollars, perhaps.
+Liquidated Damages
+Precisely because damages are sometimes difficult to assess, the parties themselves may specify how much should be paid in the event of a breach.
+Courts will enforce aliquidated damages provision as long as the actual amount of damages is difficult to ascertain (in which case proof of it is simply made at trial) and the sum is reasonable in light of the expected or actual harm.
+If the liquidated sum is unreasonably large, the excess is termed a penalty and is said to be against public policy and unenforceable.Section 16.6.2 "Liquidated Damages", Watson v. Ingram, illustrates liquidated damages.
+Punitive Damages
+Punitive damages are those awarded for the purpose of punishing a defendant in a civil action, in which
+criminal sanctions are of course unavailable.
+They are proper in cases in which the defendant has acted willfully and maliciously and are thought to deter others from acting similarly.
+Since the purpose of contract law is compensation, not punishment, punitive damages have not traditionally been awarded, with one exception—when the breach of contract is also a tort for which punitive damages may be recovered.
+Punitive damages are permitted in the law of torts (in all but four states) when the behavior is malicious or willful (reckless conduct causing physical harm, deliberate defamation of one’s character, a knowingly unlawful taking of someone’s property), and some kinds of contract breach are also tortious.
+For example, when a creditor holding collateral as security under a contract for a loan sells the collateral to a good-faith purchaser for value even though the debtor was not in default, he has breached the contract and committed the tort of conversion; punitive damages may be awarded, assuming the behavior was willful and not merely mistaken.
+Punitive damages are not fixed by law.
+The judge or jury may award at its discretion whatever sum is believed necessary to redress the wrong or deter like conduct in the future.
+This means that a richer
+person may be slapped with much heavier punitive damages than a poorer one in the appropriate case.
+But the judge in all cases may remit (reduce) some or all of a punitive damage award if he or she considers it excessive.
+16.4 Equitable Remedies
+Overview
+Really the only explanation for the differences between law and equity is to be found in the history and politics of England dating to the twelfth century, but in practical terms, the distinctions are notable.
+First, juries are not used in equitable cases.
+Second, equity relies less on precedent and more on the sense that justice should be served.
+Third, and of most significance, where what is sought by the nonbreaching party is not money—that is, where there is no adequate legal remedy—equity may afford relief.
+In equity a
+person may get a judge to order the breaching party to deliver some actual property, or to stop doing something that he should not do, or to return the consideration the nonbreaching party gave so as to return the parties to the precontract status (specific performance, injunction, and restitution, respectively).
+Types of Remedies in Equity
+There are three types of equitable remedies: specific performance, injunction, and restitution.
+Specific Performance
+Specific performance is a judicial order to the promisor that he undertake the performance to which he obligated himself in a contract.
+Specific performance is an alternative remedy to damages and may be issued at the discretion of the court, subject to a number of exceptions.
+Emily signs a contract to sell Charlotte a gold samovar, a Russian antique of great sentimental value because it once belonged to Charlotte’s mother.
+Emily then repudiates the contract while still executory.
+A court may properly grant Charlotte an order of specific performance against Emily.
+Once students understand the basic idea of specific performance, they often want to pounce upon it as the solution to almost any breach of contract.
+It seems reasonable that the nonbreaching party could ask a court to simply require the promisor to do what she promised she would.
+But specific performance is a
+very limited remedy: it is onlyavailable for breach of contract to sell a unique item, that is, a unique item of personal property (the samovar), or a parcel of real estate (all real estate is unique).
+But if the item is not unique, so that the nonbreaching party can go out and buy another one, then the legal remedy of money damages will solve the problem.
+And specific performance will never be used to force a person to perform services against his will, which would be involuntary servitude.
+A person may be forced to stop doing that which he should not do (injunction), but not forced to do what he will not do.
+Injunction
+An injunction is the second type of equitable remedy available in contract (it is also available in tort).
+It is a court order directing a person to stop doing that which she should not do.
+For example, if an employer has a valid noncompete contract with an employee, and the employee, in breach of that contract, nevertheless undertakes to compete with his former employer, a court may enjoin (issue an order of injunction), directing the former employee to stop such competition.
+A promise by a person not to do
+something—in this example, not to compete—is called a negative covenant (a covenant is a promise in a contract, itself a contract).
+Or if Seller promises to give Buyer the right of first refusal on a parcel of real estate or a unique work of art, but Seller, in breach of a written promise, offers the thing to a third party, a court may enjoin Seller from selling it to the third party.
+If a person violates an injunction, he may be held in contempt of court and put in jail for a while.
+Madison Square Garden v. Carnera Corporation, Section 16.6.3 "Injunctions and Negative Covenants", is a classic case involving injunctions for breach of contract.
+Restitution
+The third type of equitable relief is restitution.
+Restitution is a remedy applicable to several different types of cases: those in which the contract was avoided because of incapacity or misrepresentation, those in which the other party breached, and those in which the party seeking restitution breached.
+As the word implies, restitution is a restoring to one party of what he gave to the other.
+Therefore, only to the extent that the injured party conferred a benefit on the other party may the injured party be awarded restitution.
+The point is, a person who breaches a contract should not suffer a punishment, and the nonbreaching party should not be unjustly enriched.
+Total Nonperformance by Breaching Party
+The nonbreaching party is always entitled to restitution in the event of total breach by nonperformance or
+repudiation, unless both parties have performed all duties except for payment by the other party of a definite sum of money for the injured party’s performance.
+[1] Calhoun, a contractor, agrees to build $3,000 worth of fences for only $2,000 and completes the construction.
+Arlene, the landowner, refuses to pay.
+Calhoun’s only right is to get the $2,000; he does not have a restitution right to $2,500, the market price of his services (or $3,000, the amount by which her property increased in value); he is entitled, instead, only to $2,000, his contract price.
+Had Arlene repudiated prior to completion, however, Calhoun would then have been entitled to restitution based either on the market price of the work or on the amount by which he enhanced her property.
+If the one party breaches, the nonbreaching party is generally entitled to restitution of property that can be returned.
+Arlene gives Calhoun a valuable Ming vase in return for his promise to construct the fences.
+Upon Calhoun’s breach, Arlene is entitled to specific restitution of the vase.
+Measuring restitution interest can be problematic.
+The courts have considerable discretion to award either what it would have cost to hire someone else to do the work that the nonbreaching party performed
+(generally, the market price of the service) or the value that was added to the property of the party in breach by virtue of the claimant’s performance.
+Calhoun, the contractor, agrees to construct ten fences around Arlene’s acreage at the market price of $25,000.
+After erecting three, Calhoun has performed services that would cost $7,500, market value.
+Assume that he has increased the value of Arlene’s grounds by $8,000.
+If Arlene repudiated, there are two measures of Calhoun’s restitution interest: $8,000, the value by which the property was enhanced, or $7,500, the amount it would have cost Arlene to hire someone else to do the work.
+Which measure to use depends on who repudiated the contract and for what reason.
+In some cases, the enhancement of property or wealth measurement could lead to an award vastly exceeding the market price for the service.
+In such cases, the smaller measure is used.
+For a doctor performing lifesaving operations on a patient, restitution would recover only the market value of the doctor’s services—not the monetary value of the patient’s life.
+Part Performance and Then Breach
+A party who has substantially performed and then breached is entitled to restitution of a benefit conferred on the injured party, if the injured party has refused (even though justifiably) to complete his own performance owing to the other’s breach.
+Since the party in breach is liable to the injured party for damages for loss, this rule comes into play only when the benefit conferred is greater than the amount the
+nonbreaching party has lost.
+Arlene agrees to sell her property to Calhoun for $120,000, and Calhoun makes a partial payment of $30,000.
+He then repudiates.
+Arlene turns around and sells the property to a third party for $110,000.
+Calhoun—the breaching party—can get his money back, less the damages Arlene suffered as a result of his breach.
+He gets $30,000 minus the $10,000 loss Arlene incurred.
+He gets $20,000 in restitution.
+Otherwise Arlene would be enriched by Calhoun’s breach: she’d get $140,000 in total for real estate worth $120,000.
+But if he gets $20,000 of his $30,000 back, she receives $110,000 from the third party and $10,000 from Calhoun, so she gets $120,000 total (plus, we hope, incidental damages, at least).
+Restitution in Other Cases
+Upon repudiation of an oral contract governed by the Statute of Frauds, the nonbreaching party is not entitled to her expectation interest, but she may recover in restitution unless the purpose of the statute would be frustrated.
+When one party avoids a contract owing to lack of capacity, mistake, misrepresentation, duress, or the like, she is entitled to restitution for benefit conferred on the other
+party.
+Restitution is also available if a contract duty is discharged or never arises because (1) performance was impracticable, (2) the purpose of the contract was frustrated, (3) a condition did not occur, or (4) a beneficiary disclaimed his benefit.
+16.5 Limitations on Contract Remedies
+Overview
+We have observed that the purpose of remedies in contract law is, where possible, to put the nonbreaching party in as good a position as he would have been in had there been no breach.
+There are, however, several limitations or restrictions affecting when a person can claim remedies, in both law (damages) and equity.
+Of course the contract itself may—if not unconscionable—limit remedies.
+Beyond that, the nonbreaching party must be able to articulate with some degree of certainty what her damages are; the damages must be foreseeable; the nonbreaching party must have made a reasonable effort to mitigate the damages; she must sometime elect to go with one remedy and forgo another; she cannot seek to avoid a contract if she has lost the power to do so.
+We turn to these points.
+Foreseeability
+If the damages that flow from a breach of contract lack foreseeability, they will not be recoverable.
+Failures to act, like acts themselves, have consequences.
+As the old fable has it, “For want of a nail, the
+kingdom was lost.” To put a nonbreaching party in the position he would have been in had the contract been carried out could mean, in some cases, providing compensation for a long chain of events.
+In many cases, that would be unjust, because a person who does not anticipate a particular event when making a contract will not normally take steps to protect himself (either through limiting language in the contract or through insurance).
+The law is not so rigid; a loss is not compensable to the nonbreaching party unless the breaching party, at the time the contract was made, understood the loss was foreseeable as a probable result of his breach.
+Of course, the loss of the contractual benefit in the event of breach is always foreseeable.
+A company that signs an employment contract with a prospective employee knows full well that if it breaches, the employee will have a legitimate claim to lost salary.
+But it might have no reason to know that the employee’s holding the job for a certain length of time was a condition of his grandfather’s gift of $1 million.
+The leading case, perhaps the most studied case, in all the common law is Hadley v. Baxendale, decided
+in England in 1854.
+Joseph and Jonah Hadley were proprietors of a flour mill in Gloucester.
+In May 1853, the shaft of the milling engine broke, stopping all milling.
+An employee went to Pickford and Company, a common carrier, and asked that the shaft be sent as quickly as possible to a Greenwich foundry that would use the shaft as a model to construct a new one.
+The carrier’s agent promised delivery within two days.
+But through an error, the shaft was shipped by canal rather than by rail and did not arrive in Greenwich for seven days.
+The Hadleys sued Joseph Baxendale, managing director of Pickford, for the profits they lost because of the delay.
+In ordering a new trial, the Court of Exchequer ruled that Baxendale was not liable because he had had no notice that the mill was stopped:
+Where two parties have made a contract which one of them has broken, the damages which the other party ought to receive in respect of such breach of contract should be such as may fairly and reasonably be considered either arising naturally, i.e., according to the usual course of things, from such breach of contract itself, or such as may reasonably be supposed to have been in the contemplation of both parties, at the time they made the contract, as the probable result of the breach of it.
+[1]
+Thus when the party in breach has not known and has had no reason to know that the contract entailed a special risk of loss, the burden must fall on the nonbreaching party.
+As we have seen, damages attributable to losses that flow from events that do not occur in the ordinary course of events are known as
+consequential or special damages.
+The exact amount of a loss need not be foreseeable; it is the nature of the event that distinguishes between claims for ordinary or consequential damages.
+A repair shop agrees to fix a machine that it knows is intended to be resold.
+Because it delays, the sale is lost.
+The repair shop, knowing why timeliness of performance was important, is liable for the lost profit, as long as it was reasonable.
+It would not be liable for an extraordinary profit that the seller could have made because of circumstances peculiar to the particular sale unless they were disclosed.
+The special circumstances need not be recited in the contract.
+It is enough for the party in breach to have actual knowledge of the loss that would occur through his breach.
+Moreover, the parol evidence rule (Chapter 13 "Form and Meaning") does not bar introduction of evidence bearing on the party’s knowledge before the contract was signed.
+So the lesson to a promisee is that the reason for the terms he bargains for should be explained to the promisor—although too much explanation could kill a contract.
+A messenger who is paid five dollars to deliver a letter across town is not likely to undertake the mission if he is told in
+advance that his failure for any reason to deliver the letter will cost the sender $1 million, liability to be placed on the messenger.
+Actual knowledge is not the only criterion, because the standard of foreseeability is objective, not subjective.
+That means that if the party had reason to know—if a reasonable person would have understood—that a particular loss was probable should he breach, then he is liable for damages.
+What one has reason to know obviously depends on the circumstances of the case, the parties’ prior dealings, and industry custom.
+A supplier selling to a middleman should know that the commodity will be resold and that delay or default may reduce profits, whereas delay in sale to an end user might not.
+If it was foreseeable that the breach might cause the nonbreaching party to be sued, the other party is liable for legal fees and a resulting judgment or the cost of a settlement.
+Even though the breaching party may have knowledge, the courts will not always award full consequential damages.
+In the interests of fairness, they may impose limitations if such an award would be manifestly unfair.
+Such cases usually crop up when the parties have dealt informally and there is a considerable disproportion between the loss caused and the benefit the nonbreaching party had agreed to confer on the party who breached.
+The messenger may know that a huge sum of money rides on his prompt delivery of a letter across town, but unless he explicitly contracted to bear liability for failure to deliver, it is unlikely
+that the courts would force him to ante up $1 million when his fee for the service was only five dollars.
+EBWS, LLC v. Britly Corp., Section 16.6.1 "Consequential Damages", is a case that represents a modern application of the rule of Hadley v. Baxendale on the issue of foreseeability of consequential damages.
+Mitigation of Damages
+Contract law encourages the nonbreaching party to avoid loss wherever possible; this is
+called mitigation of damages.
+The concept is a limitation on damages in law.
+So there can be no recovery if the nonbreaching party had an opportunity to avoid or limit losses and failed to take advantage of it.
+Such an opportunity exists as long as it does not impose, in the Restatement’s words, an “undue risk, burden or humiliation.” [2] The effort to mitigate need not be successful.
+As long as the nonbreaching party makes a reasonable, good-faith attempt to mitigate his losses, damages are recoverable.
+Mitigation crops up in many circumstances.
+Thus a nonbreaching party who continues to perform after
+notice that the promisor has breached or will breach may not recover for expenses incurred in continuing to perform.
+And losses from the use of defective goods delivered in breach of contract are not compensable if the nonbreaching party knew before use that they were defective.
+Often the nonbreaching party can make substitute arrangements—find a new job or a new employee, buy substitute goods or sell them to another buyer—and his failure to do so will limit the amount of damages he will recover from the party who breaches.
+Under the general rule, failure to mitigate when possible permits the promisor to deduct from damages the amount of the loss that the nonbreaching party could have avoided.
+When there is a readily ascertainable market price for goods, damages are equal to the difference between the contract price and the market price.
+A substitute transaction is not just any possible arrangement; it must be suitable under the circumstances.
+Factors to be considered include the similarity, time, and place of performance, and whether the difference between the contracted-for and substitute performances can be measured and compensated.
+A prospective employee who cannot find substitute work within her field need not mitigate by taking a job in a wholly different one.
+An advertising salesperson whose employment is repudiated need not mitigate by taking a job as a taxi driver.
+When the only difference between the original and the substitute performances is price, the nonbreaching party must mitigate, even if the substitute performer is the
+original promisor.
+The nonbreaching party must mitigate in timely fashion, but each case is different.
+If it is clear that the promisor has unconditionally repudiated before performance is due, the nonbreaching party must begin to mitigate as soon as practicable and should not wait until the day performance is due to look for an alternative.
+As long as the nonbreaching party makes a reasonable effort to mitigate, the success of that effort is not an issue in assessing damages.
+If a film producer’s original cameraman breaches the contract, and if the producer had diligently searched for a substitute cameraman, who cost $150 extra per week and it later came to light that the producer could have hired a cameraman for $100, the company is entitled nevertheless to damages based on the higher figure.
+Shirley MacLaine v. Twentieth Century-Fox Corporation, Section 16.6.4 "Limitation on Damages: Mitigation of Damages", is a well-known case involving mitigation of damages.
+Certainty of Damages
+A party can recover only that amount of damage in law which can be proved with reasonable certainty.
+Especially troublesome in this regard are lost profits and loss of goodwill.
+Alf is convinced that next spring the American public will be receptive to polka-dotted belts with his name monogrammed in front.
+He arranges for a garment factory to produce 300,000 such belts, but the factory, which takes a large deposit from him in advance, misplaces the order and does not produce the belts in time for the selling season.
+When Alf discovers the failure, he cannot raise more money to go elsewhere, and his project fails.
+He cannot recover damages for lost profits because the number is entirely speculative; no one can prove how much he would have made, if anything.
+He can, instead, seek restitution of the monies advanced.
+If he had rented a warehouse to store the belts, he would also be able to recover his reliance interest.
+Proof of lost profits is not always difficult: a seller can generally demonstrate the profit he would have made on the sale to the buyer who has breached.
+The problem is more difficult, as Alf’s case demonstrates, when it is the seller who has breached.
+A buyer who contracts for but does not receive raw materials, supplies, and inventory cannot show definitively how much he would have netted from the use he planned to make of them.
+But he is permitted to prove how much money he has made in the past under similar circumstances, and he may proffer financial and market data, surveys, and expert testimony to support his claim.
+When proof of profits is difficult or impossible, the courts may grant a nonmonetary award,
+such as specific performance.
+Loss of Power of Avoidance
+You will recall that there are several circumstances when a person may avoid a contract: duress, undue influence, misrepresentation (fraudulent, negligent, or innocent), or mistake.
+But a party may lose the right to avoid, and thus the right to any remedy, in several ways.
+Delay
+If a party is the victim of fraud, she must act promptly to rescind at common law, or she will lose the right and her remedy will be limited to damages in tort.
+(This is discussed a bit more in Section 16.5.7 "Election of Remedies".
+)
+Affirmation
+An infant who waits too long to disaffirm (again, delay) will have ratified the contract, as will one who— notwithstanding being the victim of duress, undue influence, mistake, or any other grounds for avoidance—continues to operate under the contract with full knowledge of his right to avoid.
+Of course the
+disability that gave rise to the power of avoidance must have passed before affirmation works.
+Rights of Third Parties
+The intervening rights of third parties may terminate the power to avoid.
+For example, Michelle, a minor, sells her watch to Betty Buyer.
+Up to and within a reasonable time after reaching majority, Michelle could avoid—disaffirm—the contract.
+But if, before that time, Betty sells the watch to a third party, Michelle cannot get it back from the third party.
+Similarly, Salvador Seller sells his car to Bill Buyer, who pays for it with a bad check.
+If the check bounces, Salvador can rescind the deal—Bill’s consideration (the money represented by the check) has failed: Salvador could return the check and get his car back.
+But if, before the check from Bill bounces, Bill in turn sells the car to Pat Purchaser, Salvador cannot avoid the contract.
+Pat gets to keep the car.
+There are some exceptions to this rule.
+Agreement of the Parties Limiting Remedies
+Certainly it is the general rule that parties are free to enter into any kind of a contract they want, so long as it is not illegal or unconscionable.
+The inclusion into the contract of a liquidated damages clause— mentioned previously—is one means by which the parties may make an agreement affecting damages.
+But beyond that, as we saw inChapter 12 "Legality", it is very common for one side to limit its liability, or for one side to agree that it will pursue only limited remedies against the other in case of breach.
+Such agree-
+to limitations on the availability of remedies are generally OK provided they are conspicuous, bargained- for, and not unconscionable.
+In consumer transactions, courts are more likely to find a contracted-for limitation of remedies unconscionable than in commercial transactions, and under the Uniform Commercial Code (UCC) there are further restrictions on contractual remedy limitations.
+For example, Juan buys ten bags of concrete to make a counter and stand for his expensive new barbecue.
+The bags have this wording in big print: “Attention.
+Our sole liability in case this product is defective will be to provide you with a like quantity of nondefective material.
+We will not be liable for any other damages, direct or indirect, express or implied.” That’s fine.
+If the concrete is defective, the concrete top breaks, and Juan’s new barbecue is damaged, he will get nothing but some new bags of good concrete.
+He could have shopped around to find somebody who would deliver concrete with no limitation on liability.
+As it is, his remedies are limited by the agreement he entered into.
+Election of Remedies
+At Common Law
+Another limitation on remedies—at common law—is the concept ofelection of remedies.
+The nature of a loss resulting from a contract breach may be such as to entitle one party to a choice among two or more means to redress the grievance, where the choices are mutually exclusive.
+At classic common law, a person who was defrauded had an election of remedies: she could, immediately upon discovering the fraud, rescind, or she could retain the item (real estate or personal property) and attempt to remedy the fraudulently defective performance by suing for damages, but not both.
+Buyer purchases real estate from Seller for $300,000 and shortly discovers that Seller fraudulently misrepresented the availability of water.
+Buyer spends $60,000 trying to drill wells.
+Finally he gives up and sues Seller for fraud, seeking $360,000.
+Traditionally at common law, he would not get it.
+He should have rescinded upon discovery of the fraud.
+Now he can only get $60,000 in damages in tort.
+[3] The purpose of the election of remedies doctrine is to prevent the victim of fraud from getting a double recovery, but it has come under increasing criticism.
+Here is one court’s observation: “A host of commentators support elimination of the election of remedies doctrine.
+A common theme is that the doctrine substitutes labels and formalism for inquiry into whether double recovery results in fact.
+The rigid doctrine goes to the other extreme, actually resulting in the under compensation of fraud victims and
+the protection of undeserving wrongdoers.” [4]
+Under the UCC
+The doctrine of election of remedy has been rejected by the UCC, which means that the remedies are cumulative in nature.
+According to Section 2-703(1): “Whether the pursuit of one remedy bars another depends entirely on the facts of the individual case.” UCC, Section 2-721, provides that neither demand for rescission of the contract in the case of misrepresentation or fraud, nor the return or rejection of goods, bars a claim for damages or any other remedy permitted under the UCC for nonfraudulent breach (we will examine remedies for breach of sales contracts in Chapter 18 "Title and Risk of Loss").
+Tort versus Contract
+Frequently a contract breach may also amount to tortious conduct.
+A physician warrants her treatment as perfectly safe but performs the operation negligently, scarring the patient for life.
+The patient could sue for malpractice (tort) or for breach of warranty (contract).
+The choice involves at least four considerations:
+1.
+Statute of limitations.
+Most statutes of limitations prescribe longer periods for contract than for tort actions.
+2.
+Allowable damages.
+Punitive damages are more often permitted in tort actions, and certain kinds of injuries are compensable in tort but not in contract suits—for example, pain and suffering.
+3.
+Expert testimony.
+In most cases, the use of experts would be the same in either tort or contract suits, but in certain contract cases, the expert witness could be dispensed with, as, for example, in a contract case charging that the physician abandoned the patient.
+4.
+Insurance coverage.
+Most policies do not cover intentional torts, so a contract theory that avoids the element of willfulness would provide the plaintiff with a surer chance of recovering money damages.
+Legal versus Extralegal Remedies
+A party entitled to a legal remedy is not required to pursue it.
+Lawsuits are disruptive not merely to the individuals involved in the particular dispute but also to the ongoing relationships that may have grown up around the parties, especially if they are corporations or other business enterprises.
+Buyers must usually continue to rely on their suppliers, and sellers on their buyers.
+Not surprisingly, therefore, many
+businesspeople refuse to file suits even though they could, preferring to settle their disputes privately or even to ignore claims that they might easily press.
+Indeed, the decision whether or not to sue is not one for the lawyer but for the client, who must analyze a number of pros and cons, many of them not legal ones at all.
+

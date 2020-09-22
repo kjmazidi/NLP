@@ -1,0 +1,381 @@
+22 | Inflation
+Inflation is a general and ongoing rise in the level of prices in an entire economy.
+Inflation does not refer to a change in relative prices.
+A relative price change occurs when you see that the price of tuition has risen, but the price of laptops has fallen.
+Inflation, on the other hand, means that there is pressure for prices to rise in most markets in the economy.
+In addition, price increases in the supply-and-demand model were one-time events, representing a shift from a previous equilibrium to a new one.
+Inflation implies an ongoing rise in prices.
+If inflation happened for one year and then stopped—well, then it would not be inflation any more.
+This chapter begins by showing how to combine prices of individual goods and services to create a measure of overall inflation.
+It discusses the historical and recent experience of inflation, both in the United States and in other countries around the world.
+Other chapters have sometimes included a note under an exhibit or a parenthetical reminder in the text saying that the numbers have been adjusted for inflation.
+In this chapter, it is time to show how to use inflation statistics to adjust other economic variables, so that you can tell how much of, say, the rise in GDP over different periods of time can be attributed to an actual increase in the production of goods and services and how much should be attributed to the fact that prices for most things have risen.
+Inflation has consequences for people and firms throughout the economy, in their roles as lenders and borrowers, wage- earners, taxpayers, and consumers.
+The chapter concludes with a discussion of some imperfections and biases in the inflation statistics, and a preview of policies for fighting inflation that will be discussed in other chapters.
+22.1 | Tracking Inflation
+Dinner table conversations where you might have heard about inflation usually entail reminiscing about when “everything seemed to cost so much less.
+You used to be able to buy three gallons of gasoline for a dollar and then go see an afternoon movie for another dollar.” Table 22.1 compares some prices of common goods in 1970 and 2012.
+Of course, the average prices shown in this table may not reflect the prices where you live.
+The cost of living in New York City is much higher than in Houston, Texas, for example.
+In addition, certain products have evolved over recent decades.
+A new car in 2012, loaded with antipollution equipment, safety gear, computerized engine controls, and many other technological advances, is a more advanced machine (and more fuel efficient) than your typical 1970s car.
+However, put details like these to one side for the moment, and look at the overall pattern.
+The primary reason behind the price rises in Table 22.1—and all the price increases for the other products in the economy—is not specific to the market for housing or cars or gasoline or movie tickets.
+Instead, it is part of a general rise in the level of all prices.
+In 2012, $1 had about the same purchasing power in overall terms of goods and services as 18 cents did in 1972, because of the amount of inflation that has occurred over that time period.
+Moreover, the power of inflation does not affect just goods and services, but wages and income levels, too.
+The second-to- last row of Table 22.1 shows that the average hourly wage for a manufacturing worker increased nearly six-fold from 1970 to 2012.
+Sure, the average worker in 2012 is better educated and more productive than the average worker in 1970—but not six times more productive.
+Sure, per capita GDP increased substantially from 1970 to 2012, but is the average person in the U.S.
+economy really more than eight times better off in just 42 years?
+Not likely.
+A modern economy has millions of goods and services whose prices are continually quivering in the breezes of supply and demand.
+How can all of these shifts in price be boiled down to a single inflation rate?
+As with many problems in economic measurement, the conceptual answer is reasonably straightforward: Prices of a variety of goods and services are combined into a single price level; the inflation rate is simply the percentage change in the price level.
+Applying the concept, however, involves some practical difficulties.
+The Price of a Basket of Goods
+To calculate the price level, economists begin with the concept of a basket of goods and services, consisting of the different items individuals, businesses, or organizations typically buy.
+The next step is to look at how the prices of those items change over time.
+In thinking about how to combine individual prices into an overall price level, many people find that their first impulse is to calculate the average of the prices.
+Such a calculation, however, could easily be misleading because some products matter more than others.
+Changes in the prices of goods for which people spend a larger share of their incomes will matter more than changes in the prices of goods for which people spend a smaller share of their incomes.
+For example, an increase of 10% in the rental rate on housing matters more to most people than whether the price of carrots rises by 10%.
+To construct an overall measure of the price level, economists compute a weighted average of the prices of the items in the basket, where the weights are based on the actual quantities of goods and services people buy.
+The following Work It Out feature walks you through the steps of calculating the annual rate of inflation based on a few products.
+Index Numbers
+The numerical results of a calculation based on a basket of goods can get a little messy.
+The simplified example in Table 22.2 has only three goods and the prices are in even dollars, not numbers like 79 cents or $124.99.
+If the list of products was much longer, and more realistic prices were used, the total quantity spent over a year might be some messy-looking number like $17,147.51 or $27,654.92.
+To simplify the task of interpreting the price levels for more realistic and complex baskets of goods, the price level in each period is typically reported as an index number, rather than as the dollar amount for buying the basket of goods.
+Price indices are created to calculate an overall average change in relative prices over time.
+To convert the money spent on the basket to an index number, economists arbitrarily choose one year to be the base year, or starting point from which we measure changes in prices.
+The base year, by definition, has an index number equal to 100.
+This sounds complicated, but it is really a simple math trick.
+In the example above, say that time period 3 is chosen as the base year.
+Since the total amount of spending in that year is $107, we divide that amount by itself ($107) and multiply by 100.
+Mathematically, that is equivalent to dividing $107 by 100, or $1.07.
+Doing either will give us an index in the base year of 100.
+Again, this is because the index number in the base year always has to have a value of 100.
+Then, to figure out the values of the index number for the other years, we divide the dollar amounts for the other years by 1.07 as well.
+Note also that the dollar signs cancel out so that index numbers have no units.
+If the inflation rate is the same whether it is based on dollar values or index numbers, then why bother with the index numbers?
+The advantage is that indexing allows easier eyeballing of the inflation numbers.
+If you glance at two index numbers like 107 and 110, you know automatically that the rate of inflation between the two years is about, but not quite exactly equal to, 3%.
+By contrast, imagine that the price levels were expressed in absolute dollars of a large basket of goods, so that when you looked at the data, the numbers were $19,493.62 and $20,009.32.
+Most people find it difficult to eyeball those kinds of numbers and say that it is a change of about 3%.
+However, the two numbers expressed in absolute dollars are exactly in the same proportion of 107 to 110 as the previous example.
+If you’re wondering why simple subtraction of the index numbers wouldn’t work, read the following Clear It Up feature.
+Two final points about index numbers are worth remembering.
+First, index numbers have no dollar signs or other units attached to them.
+Although index numbers can be used to calculate a percentage inflation rate, the index numbers themselves do not have percentage signs.
+Index numbers just mirror the proportions found in other data.
+They transform the other data so that the data are easier to work with.
+Second, the choice of a base year for the index number—that is, the year that is automatically set equal to 100—is arbitrary.
+It is chosen as a starting point from which changes in prices are tracked.
+In the official inflation statistics, it is common to use one base year for a few years, and then to update it, so that the base year of 100 is relatively close to the present.
+But any base year that is chosen for the index numbers will result in exactly the same inflation rate.
+To see this in the previous example, imagine that period 1, when total spending was $100, was also chosen as the base year, and given an index number of 100.
+At a glance, you can see that the index numbers would now exactly match the dollar figures, the inflation rate in the first period would be 6.5%, and so on.
+22.2 | How Changes in the Cost of Living are Measured
+The most commonly cited measure of inflation in the United States is the Consumer Price Index (CPI).
+The CPI is calculated by government statisticians at the U.S.
+Bureau of Labor Statistics based on the prices in a fixed basket of goods and services that represents the purchases of the average family of four.
+In recent years, the statisticians have paid considerable attention to a subtle problem: that the change in the total cost of buying a fixed basket of goods and services over time is conceptually not quite the same as the change in the cost of living, because the cost of living represents how much it costs for a person to feel that his or her consumption provides an equal level of satisfaction or utility.
+To understand the distinction, imagine that over the past 10 years, the cost of purchasing a fixed basket of goods increased by 25% and your salary also increased by 25%.
+Has your personal standard of living held constant?
+If you do not necessarily purchase an identical fixed basket of goods every year, then an inflation calculation based on the cost of a fixed basket of goods may be a misleading measure of how your cost of living has changed.
+Two problems arise here: substitution bias and quality/new goods bias.
+When the price of a good rises, consumers tend to purchase less of it and to seek out substitutes instead.
+Conversely, as the price of a good falls, people will tend to purchase more of it.
+This pattern implies that goods with generally rising prices should tend over time to become less important in the overall basket of goods used to calculate inflation, while goods with falling prices should tend to become more important.
+Consider, as an example, a rise in the price of peaches by $100 per pound.
+If consumers were utterly inflexible in their demand for peaches, this would lead to a big rise in the price of food for consumers.
+Alternatively, imagine that people are utterly indifferent to whether they have peaches or other types of fruit.
+Now, if peach prices rise, people completely switch to other fruit choices and the average price of food does not change at all.
+A fixed and unchanging basket of goods assumes that consumers are locked into buying exactly the same goods, regardless of price changes—not a very likely assumption.
+Thus, substitution bias—the rise in the price of a fixed basket of goods over time—tends to overstate the rise in a consumer’s true cost of living, because it does not take into account that the person can substitute away from goods whose relative prices have risen.
+The other major problem in using a fixed basket of goods as the basis for calculating inflation is how to deal with the arrival of improved versions of older goods or altogether new goods.
+Consider the problem that arises if a cereal is improved by adding 12 essential vitamins and minerals—and also if a box of the cereal costs 5% more.
+It would clearly be misleading to count the entire resulting higher price as inflation, because the new price is being charged for a product of higher (or at least different) quality.
+Ideally, one would like to know how much of the higher price is due to the quality change, and how much of it is just a higher price.
+The Bureau of Labor Statistics, which is responsible for the computation of the Consumer Price Index, must deal with these difficulties in adjusting for quality changes.
+A new product can be thought of as an extreme improvement in quality—from something that did not exist to something that does.
+However, the basket of goods that was fixed in the past obviously does not include new goods created since then.
+The basket of goods and services used in the Consumer Price Index (CPI) is revised and updated over time, and so new products are gradually included.
+But the process takes some time.
+For example, room air conditioners were widely sold in the early 1950s, but were not introduced into the basket of goods behind the Consumer Price Index until 1964.
+The VCR and personal computer were available in the late 1970s and widely sold by the early 1980s, but did not enter the CPI basket of goods until 1987.
+By 1996, there were more than 40 million cellular phone subscribers in the United States—but cell phones were not yet part of the CPI basket of goods.
+The parade of inventions has continued, with the CPI inevitably lagging a few years behind.
+The arrival of new goods creates problems with respect to the accuracy of measuring inflation.
+The reason people buy new goods, presumably, is that the new goods offer better value for money than existing goods.
+Thus, if the price index leaves out new goods, it overlooks one of the ways in which the cost of living is improving.
+In addition, the price of a new good is often higher when it is first introduced and then declines over time.
+If the new good is not included in the CPI for some years, until its price is already lower, the CPI may miss counting this price decline altogether.
+Taking these arguments together, the quality/new goods bias means that the rise in the price of a fixed basket of goods over time tends to overstate the rise in a consumer’s true cost of living, because it does not take into account how improvements in the quality of existing goods or the invention of new goods improves the standard of living.
+The CPI and Core Inflation Index
+Imagine if you were driving a company truck across the country- you probably would care about things like the prices of available roadside food and motel rooms as well as the truck’s operating condition.
+However, the manager of the firm might have different priorities.
+He would care mostly about the truck’s on-time performance and much less so about the food you were eating and the places you were staying.
+In other words, the company manager would be paying attention to the production of the firm, while ignoring transitory elements that impacted you, but did not affect the company’s bottom line.
+In a sense, a similar situation occurs with regard to measures of inflation.
+As we’ve learned, CPI measures prices as they affect everyday household spending.
+Well, a core inflation index is typically calculated by taking the CPI and excluding volatile economic variables.
+In this way, economists have a better sense of the underlying trends in prices that affect the cost of living.
+Examples of excluded variables include energy and food prices, which can jump around from month to month because of the weather.
+According to an article by Kent Bernhard, during Hurricane Katrina in 2005, a key supply point for the nation’s gasoline was nearly knocked out.
+Gas prices quickly shot up across the nation, in some places up to 40 cents a gallon in one day.
+This was not the cause of an economic policy but rather a short-lived event until the pumps were restored in the region.
+In this case, the CPI that month would register the change as a cost of living event to households, but the core inflation index would remain unchanged.
+As a result, the Federal Reserve’s decisions on interest rates would not be influenced.
+Similarly, droughts can cause world-wide spikes in food prices that, if temporary, do not affect the nation’s economic capability.
+As former Chairman of the Federal Reserve Ben Bernanke noted in 1999 about the core inflation index, “It provide(s) a better guide to monetary policy than the other indices, since it measures the more persistent underlying inflation rather than transitory influences on the price level.” Bernanke also noted that it helps communicate that every inflationary shock need not be responded to by the Federal Reserve since some price changes are transitory and not part of a structural change in the economy.
+In sum, both the CPI and the core inflation index are important, but serve different audiences.
+The CPI helps households understand their overall cost of living from month to month, while the core inflation index is a preferred gauge from which to make important government policy changes.
+Practical Solutions for the Substitution and the Quality/New Goods Biases
+By the early 2000s, the Bureau of Labor Statistics was using alternative mathematical methods for calculating the Consumer Price Index, more complicated than just adding up the cost of a fixed basket of goods, to allow for some substitution between goods.
+It was also updating the basket of goods behind the CPI more frequently, so that new and improved goods could be included more rapidly.
+For certain products, the BLS was carrying out studies to try to measure the quality improvement.
+For example, with computers, an economic study can try to adjust for changes in speed, memory, screen size, and other characteristics of the product, and then calculate the change in price after these product changes are taken into account.
+But these adjustments are inevitably imperfect, and exactly how to make these adjustments is often a source of controversy among professional economists.
+By the early 2000s, the substitution bias and quality/new goods bias had been somewhat reduced, so that since then the rise in the CPI probably overstates the true rise in inflation by only about 0.5% per year.
+Over one or a few years, this is not much; over a period of a decade or two, even half of a percent per year compounds to a more significant amount.
+In addition, the CPI tracks prices from physical locations, and not at online sites like Amazon, where prices can be lower.
+When measuring inflation (and other economic statistics, too), a tradeoff arises between simplicity and interpretation.
+If the inflation rate is calculated with a basket of goods that is fixed and unchanging, then the calculation of an inflation rate is straightforward, but the problems of substitution bias and quality/new goods bias will arise.
+However, when the basket of goods is allowed to shift and evolve to reflect substitution toward lower relative prices, quality improvements, and new goods, the technical details of calculating the inflation rate grow more complex.
+Additional Price Indices: PPI, GDP Deflator, and More
+The basket of goods behind the Consumer Price Index represents an average hypothetical U.S.
+household, which is to say that it does not exactly capture anyone’s personal experience.
+When the task is to calculate an average level of inflation, this approach works fine.
+What if, however, you are concerned about inflation experienced by a certain group, like the elderly, or the poor, or single-parent families with children, or Hispanic-Americans?
+In specific situations, a price index based on the buying power of the average consumer may not feel quite right.
+This problem has a straightforward solution.
+If the Consumer Price Index does not serve the desired purpose, then invent another index, based on a basket of goods appropriate for the group of interest.
+Indeed, the Bureau of Labor Statistics publishes a number of experimental price indices: some for particular groups like the elderly or the poor, some for different geographic areas, and some for certain broad categories of goods like food or housing.
+The BLS also calculates several price indices that are not based on baskets of consumer goods.
+For example, the Producer Price Index (PPI) is based on prices paid for supplies and inputs by producers of goods and services.
+It can be broken down into price indices for different industries, commodities, and stages of processing (like finished goods, intermediate goods, crude materials for further processing, and so on).
+There is an International Price Index based on the prices of merchandise that is exported or imported.
+An Employment Cost Index measures wage inflation in the labor market.
+The GDP deflator, measured by the Bureau of Economic Analysis, is a price index that includes all the components of GDP (that is, consumption plus investment plus government plus exports minus imports).
+Unlike the CPI, its baskets are not fixed but re-calculate what that year’s GDP would have been worth using the base-year’s prices.
+What’s the best measure of inflation?
+If concerned with the most accurate measure of inflation, use the GDP deflator as it picks up the prices of goods and services produced.
+However, it is not a good measure of cost of living as it includes prices of many products not purchased by households (for example, aircraft, fire engines, factory buildings, office complexes, and bulldozers).
+If one wants the most accurate measure of inflation as it impacts households, use the CPI, as it only picks up prices of products purchased by households.
+That is why the CPI is sometimes referred to as the cost-of-living index.
+As the Bureau of Labor Statistics states on its website: “The ‘best’ measure of inflation for a given application depends on the intended use of the data.”
+22.3 | How the U.S.
+and Other Countries Experience Inflation
+In the last three decades, inflation has been relatively low in the U.S.
+economy, with the Consumer Price Index typically rising 2% to 4% per year.
+Looking back over the twentieth century, there have been several periods where inflation caused the price level to rise at double-digit rates, but nothing has come close to hyperinflation.
+Historical Inflation in the U.S.
+Economy
+Figure 22.3 (a) shows the level of prices in the Consumer Price Index stretching back to 1916.
+In this case, the base years (when the CPI is defined as 100) are set for the average level of prices that existed from 1982 to 1984.
+Figure 22.3 (b) shows the annual percentage changes in the CPI over time, which is the inflation rate.
+The first two waves of inflation are easy to characterize in historical terms: they are right after World War I and World War II.
+However, there are also two periods of severe negative inflation—called deflation—in the early decades of the twentieth century: one following the deep recession of 1920–21 and the other during the Great Depression of the 1930s.
+(Since inflation is a time when the buying power of money in terms of goods and services is reduced, deflation will be a time when the buying power of money in terms of goods and services increases.
+) For the period from 1900 to about 1960, the major inflations and deflations nearly balanced each other out, so the average annual rate of inflation over these years was only about 1% per year.
+A third wave of more severe inflation arrived in the 1970s and departed in the early 1980s.
+Times of recession or depression often seem to be times when the inflation rate is lower, as in the recession of 1920–1921, the Great Depression, the recession of 1980–1982, and the Great Recession in 2008–2009.
+There were a few months in 2009 that were deflationary, but not at an annual rate.
+Recessions are typically accompanied by higher levels of unemployment, and the total demand for goods falls, pulling the price level down.
+Conversely, the rate of inflation often, but not always, seems to start moving up when the economy is growing very strongly, like right after wartime or during the 1960s.
+The frameworks for macroeconomic analysis, developed in other chapters, will explain why recession often accompanies higher unemployment and lower inflation, while rapid economic growth often brings lower unemployment but higher inflation.
+Inflation around the World
+Around the rest of the world, the pattern of inflation has been very mixed, as can be seen in Figure 22.4 which shows inflation rates over the last several decades.
+Many industrialized countries, not just the United States, had relatively high inflation rates in the 1970s.
+For example, in 1975, Japan’s inflation rate was over 8% and the inflation rate for the United Kingdom was almost 25%.
+In the 1980s, inflation rates came down in the United States and in Europe and have largely stayed down.
+Countries with controlled economies in the 1970s, like the Soviet Union and China, historically had very low rates of measured inflation—because prices were forbidden to rise by law, except for the cases where the government deemed a price increase to be due to quality improvements.
+However, these countries also had perpetual shortages of goods, since forbidding prices to rise acts like a price ceiling and creates a situation where quantity demanded often exceeds quantity supplied.
+As Russia and China made a transition toward more market-oriented economies, they also experienced outbursts of inflation, although the statistics for these economies should be regarded as somewhat shakier.
+Inflation in China averaged about 10% per year for much of the 1980s and early 1990s, although it has dropped off since then.
+Russia experienced hyperinflation—an outburst of high inflation—of 2,500% per year in the early 1990s, although by 2006 Russia’s consumer price inflation had dipped below 10% per year, as shown in Figure 22.5.
+The closest the United States has ever gotten to hyperinflation was during the Civil War, 1860–1865, in the Confederate states.
+Many countries in Latin America experienced raging hyperinflation during the 1980s and early 1990s, with inflation rates often well above 100% per year.
+In 1990, for example, both Brazil and Argentina saw inflation climb above 2000%.
+Certain countries in Africa experienced extremely high rates of inflation, sometimes bordering on hyperinflation, in the 1990s.
+Nigeria, the most populous country in Africa, had an inflation rate of 75% in 1995.
+In the early 2000s, the problem of inflation appears to have diminished for most countries, at least in comparison to the worst times of recent decades.
+As we noted in this earlier Bring it Home feature, in recent years, the world’s worst example of hyperinflation was in Zimbabwe, where at one point the government was issuing bills with a face value of $100 trillion (in Zimbabwean dollars)—that is, the bills had $100,000,000,000,000 written on the front, but were almost worthless.
+In many countries, the memory of double-digit, triple-digit, and even quadruple-digit inflation is not very far in the past.
+22.4 | The Confusion Over Inflation
+Economists usually oppose high inflation, but they oppose it in a milder way than many non-economists.
+Robert Shiller, one of 2013’s Nobel Prize winners in economics, carried out several surveys during the 1990s about attitudes toward inflation.
+One of his questions asked, “Do you agree that preventing high inflation is an important national priority, as important as preventing drug abuse or preventing deterioration in the quality of our schools?” Answers were on a scale of 1–5, where 1 meant “Fully agree” and 5 meant “Completely disagree.” For the U.S.
+population as a whole, 52% answered “Fully agree” that preventing high inflation was a highly important national priority and just 4% said “Completely disagree.” However, among professional economists, only 18% answered “Fully agree,” while the same percentage of 18% answered “Completely disagree.”
+The Land of Funny Money
+What are the economic problems caused by inflation, and why do economists often regard them with less concern than the general public?
+Consider a very short story: “ The Land of Funny Money.”
+One morning, everyone in the Land of Funny Money awakened to find that everything denominated in money had increased by 20%.
+The change was completely unexpected.
+Every price in every store was 20% higher.
+Paychecks were 20% higher.
+Interest rates were 20 % higher.
+The amount of money, everywhere from wallets to savings accounts, was 20% larger.
+This overnight inflation of prices made newspaper headlines everywhere in the Land of Funny Money.
+But the headlines quickly disappeared, as people realized that in terms of what they could actually buy with their incomes, this inflation had no economic impact.
+Everyone’s pay could still buy exactly the same set of goods as it did before.
+Everyone’s savings were still sufficient to buy exactly the same car, vacation, or retirement that they could have bought before.
+Equal levels of inflation in all wages and prices ended up not mattering much at all.
+When the people in Robert Shiller’s surveys explained their concern about inflation, one typical reason was that they feared that as prices rose, they would not be able to afford to buy as much.
+In other words, people were worried because they did not live in a place like the Land of Funny Money, where all prices and wages rose simultaneously.
+Instead, people live here on Planet Earth, where prices might rise while wages do not rise at all, or where wages rise more slowly than prices.
+Economists note that over most periods, the inflation level in prices is roughly similar to the inflation level in wages, and so they reason that, on average, over time, people’s economic status is not greatly changed by inflation.
+If all prices, wages, and interest rates adjusted automatically and immediately with inflation, as in the Land of Funny Money, then no one’s purchasing power, profits, or real loan payments would change.
+However, if other economic variables do not move exactly in sync with inflation, or if they adjust for inflation only after a time lag, then inflation can cause three types of problems: unintended redistributions of purchasing power, blurred price signals, and difficulties in long-term planning.
+Unintended Redistributions of Purchasing Power
+Inflation can cause redistributions of purchasing power that hurt some and help others.
+People who are hurt by inflation include those who are holding a lot of cash, whether it is in a safe deposit box or in a cardboard box under the bed.
+When inflation happens, the buying power of cash is diminished.
+But cash is only an example of a more general problem: anyone who has financial assets invested in a way that the nominal return does not keep up with inflation will tend to suffer from inflation.
+For example, if a person has money in a bank account that pays 4% interest, but inflation rises to 5%, then the real rate of return for the money invested in that bank account is negative 1%.
+The problem of a good-looking nominal interest rate being transformed into an ugly-looking real interest rate can be worsened by taxes.
+The U.S.
+income tax is charged on the nominal interest received in dollar terms, without an adjustment for inflation.
+So, a person who invests $10,000 and receives a 5% nominal rate of interest is taxed on the $500 received—no matter whether the inflation rate is 0%, 5%, or 10%.
+If inflation is 0%, then the real interest rate is 5% and all $500 is a gain in buying power.
+But if inflation is 5%, then the real interest rate is zero and the person had no real gain—but owes income tax on the nominal gain anyway.
+If inflation is 10%, then the real interest rate is negative 5% and the person is actually falling behind in buying power, but would still owe taxes on the $500 in nominal gains.
+Inflation can cause unintended redistributions for wage earners, too.
+Wages do typically creep up with inflation over time eventually.
+The last row of Table 22.1 at the start of this chapter showed that average hourly wage in the U.S.
+economy increased from $3.23 in 1970 to $19.20 in 2012, which is an increase by a factor of almost six.
+Over that time period, the Consumer Price Index increased by an almost identical amount.
+However, increases in wages may lag behind inflation for a year or two, since wage adjustments are often somewhat sticky and occur only once or twice a year.
+Moreover, the extent to which wages keep up with inflation creates insecurity for workers and may involve painful, prolonged conflicts between employers and employees.
+If the minimum wage is adjusted for inflation only infrequently, minimum wage workers are losing purchasing power from their nominal wages, as shown in Figure 22.6.
+One sizable group of people has often received a large share of their income in a form that does not increase over time: retirees who receive a private company pension.
+Most pensions have traditionally been set as a fixed nominal dollar amount per year at retirement.
+For this reason, pensions are called “defined benefits” plans.
+Even if inflation is low, the combination of inflation and a fixed income can create a substantial problem over time.
+A person who retires on a fixed income at age 65 will find that losing just 1% to 2% of buying power per year to inflation compounds to a considerable loss of buying power after a decade or two.
+Fortunately, pensions and other defined benefits retirement plans are increasingly rare, replaced instead by “defined contribution” plans, such as 401(k)s and 403(b)s. In these plans, the employer contributes a fixed amount to the worker’s retirement account on a regular basis (usually every pay check).
+The employer often contributes as well.
+The worker invests these funds in a wide range of investment vehicles.
+These plans are tax deferred, and they are portable so that if the individual takes a job with a different employer, their 401(k) comes with them.
+To the extent that the investments made generate real rates of return, retirees do not suffer from the inflation costs of traditional pensioners.
+However, ordinary people can sometimes benefit from the unintended redistributions of inflation.
+Consider someone who borrows $10,000 to buy a car at a fixed interest rate of 9%.
+If inflation is 3% at the time the loan is made, then the loan must be repaid at a real interest rate of 6%.
+But if inflation rises to 9%, then the real interest rate on the loan is zero.
+In this case, the borrower’s benefit from inflation is the lender’s loss.
+A borrower paying a fixed interest rate, who benefits from inflation, is just the flip side of an investor receiving a fixed interest rate, who suffers from inflation.
+The lesson is that when interest rates are fixed, rises in the rate of inflation tend to penalize suppliers of financial capital, who end up being repaid in dollars that are worth less because of inflation, while demanders of financial capital end up better off, because they can repay their loans in dollars that are worth less than originally expected.
+The unintended redistributions of buying power caused by inflation may have a broader effect on society.
+America’s widespread acceptance of market forces rests on a perception that people’s actions have a reasonable connection to market outcomes.
+When inflation causes a retiree who built up a pension or invested at a fixed interest rate to suffer, however, while someone who borrowed at a fixed interest rate benefits from inflation, it is hard to believe that this outcome was deserved in any way.
+Similarly, when homeowners benefit from inflation because the price of their homes rises, while renters suffer because they are paying higher rent, it is hard to see any useful incentive effects.
+One of the reasons that inflation is so disliked by the general public is a sense that it makes economic rewards and penalties more arbitrary—and therefore likely to be perceived as unfair – even dangerous, as the next Clear It Up feature shows.
+Blurred Price Signals
+Prices are the messengers in a market economy, conveying information about conditions of demand and supply.
+Inflation blurs those price messages.
+Inflation means that price signals are perceived more vaguely, like a radio program received with a lot of static.
+If the static becomes severe, it is hard to tell what is happening.
+In Israel, when inflation accelerated to an annual rate of 500% in 1985, some stores stopped posting prices directly on items, since they would have had to put new labels on the items or shelves every few days to reflect inflation.
+Instead, a shopper just took items from a shelf and went up to the checkout register to find out the price for that day.
+Obviously, this situation makes comparing prices and shopping for the best deal rather difficult.
+When the levels and changes of prices become uncertain, businesses and individuals find it harder to react to economic signals.
+In a world where inflation is at a high rate, but bouncing up and down to some extent, does a higher price of a good mean that inflation has risen, or that supply of that good has decreased, or that demand for that good has increased?
+Should a buyer of the good take the higher prices as an economic hint to start substituting other products—or have the prices of the substitutes risen by an equal amount?
+Should a seller of the good take a higher price as a reason to increase production—or is the higher price only a sign of a general inflation in which the prices of all inputs to production are rising as well?
+The true story will presumably become clear over time, but at a given moment, who can say?
+High and variable inflation means that the incentives in the economy to adjust in response to changes in prices are weaker.
+Markets will adjust toward their equilibrium prices and quantities more erratically and slowly, and many individual markets will experience a greater chance of surpluses and shortages.
+Problems of Long-Term Planning
+Inflation can make long-term planning difficult.
+In discussing unintended redistributions, we considered the case of someone trying to plan for retirement with a pension that is fixed in nominal terms and a high rate of inflation.
+Similar problems arise for all people trying to save for retirement, because they must consider what their money will really buy several decades in the future when the rate of future inflation cannot be known with certainty.
+Inflation, especially at moderate or high levels, will pose substantial planning problems for businesses, too.
+A firm can make money from inflation—for example, by paying bills and wages as late as possible so that it can pay in inflated dollars, while collecting revenues as soon as possible.
+A firm can also suffer losses from inflation, as in the case of a retail business that gets stuck holding too much cash, only to see the value of that cash eroded by inflation.
+But when a business spends its time focusing on how to profit by inflation, or at least how to avoid suffering from it, an inevitable tradeoff strikes: less time is spent on improving products and services or on figuring out how to make existing products and services more cheaply.
+An economy with high inflation rewards businesses that have found clever ways of profiting from inflation, which are not necessarily the businesses that excel at productivity, innovation, or quality of service.
+In the short term, low or moderate levels of inflation may not pose an overwhelming difficulty for business planning, because costs of doing business and sales revenues may rise at similar rates.
+If, however, inflation varies substantially over the short or medium term, then it may make sense for businesses to stick to shorter-term strategies.
+The evidence as to whether relatively low rates of inflation reduce productivity is controversial among economists.
+There is some evidence that if inflation can be held to moderate levels of less than 3% per year, it need not prevent a nation’s real economy from growing at a healthy pace.
+For some countries that have experienced hyperinflation of several thousand percent per year, an annual inflation rate of 20–30% may feel basically the same as zero.
+However, several economists have pointed to the suggestive fact that when U.S.
+inflation heated up in the early 1970s—to 10%—U.S.
+growth in productivity slowed down, and when inflation slowed down in the 1980s, productivity edged up again not long thereafter, as shown in Figure 22.7.
+Any Benefits of Inflation?
+Although the economic effects of inflation are primarily negative, two countervailing points are worth noting.
+First, the impact of inflation will differ considerably according to whether it is creeping up slowly at 0% to 2% per year, galloping along at 10% to 20% per year, or racing to the point of hyperinflation at, say, 40% per month.
+Hyperinflation can rip an economy and a society apart.
+An annual inflation rate of 2%, 3%, or 4%, however, is a long way from a national crisis.
+Low inflation is also better than deflation which occurs with severe recessions.
+Second, an argument is sometimes made that moderate inflation may help the economy by making wages in labor markets more flexible.
+The discussion in Unemployment pointed out that wages tend to be sticky in their downward movements and that unemployment can result.
+A little inflation could nibble away at real wages, and thus help real wages to decline if necessary.
+In this way, even if a moderate or high rate of inflation may act as sand in the gears of the economy, perhaps a low rate of inflation serves as oil for the gears of the labor market.
+This argument is controversial.
+A full analysis would have to take all the effects of inflation into account.
+It does, however, offer another reason to believe that, all things considered, very low rates of inflation may not be especially harmful.
+22.5 | Indexing and Its Limitations
+When a price, wage, or interest rate is adjusted automatically with inflation, it is said to be indexed.
+An indexed payment increases according to the index number that measures inflation.
+A wide array of indexing arrangements is observed in private markets and government programs.
+Since the negative effects of inflation depend in large part on having inflation unexpectedly affect one part of the economy but not another—say, increasing the prices that people pay but not the wages that workers receive—indexing will take some of the sting out of inflation.
+Indexing in Private Markets
+In the 1970s and 1980s, labor unions commonly negotiated wage contracts that had cost-of-living adjustments (COLAs) which guaranteed that their wages would keep up with inflation.
+These contracts were sometimes written as, for example, COLA plus 3%.
+Thus, if inflation was 5%, the wage increase would automatically be 8%, but if inflation rose to 9%, the wage increase would automatically be 12%.
+COLAs are a form of indexing applied to wages.
+Loans often have built-in inflation adjustments, too, so that if the inflation rate rises by two percentage points, then the interest rate charged on the loan rises by two percentage points as well.
+An adjustable-rate mortgage (ARM) is a kind of loan used to purchase a home in which the interest rate varies with the rate of inflation.
+Often, a borrower will be able receive a lower interest rate if borrowing with an ARM, compared to a fixed-rate loan.
+The reason is that with an ARM, the lender is protected against the risk that higher inflation will reduce the real loan payments, and so the risk premium part of the interest rate can be correspondingly lower.
+A number of ongoing or long-term business contracts also have provisions that prices will be adjusted automatically according to inflation.
+Sellers like such contracts because they are not locked into a low nominal selling price if inflation turns out higher than expected; buyers like such contracts because they are not locked into a high buying price if inflation turns out to be lower than expected.
+A contract with automatic adjustments for inflation in effect agrees on a real price to be paid, rather than a nominal price.
+Indexing in Government Programs
+Many government programs are indexed to inflation.
+The U.S.
+income tax code is designed so that as a person’s income rises above certain levels, the tax rate on the marginal income earned rises as well; this is what is meant by the expression “move into a higher tax bracket.” For example, according to the basic tax tables from the Internal Revenue Service, in 2013 a single person owed 10% of all taxable income from $0 to $8,925; 15% of all income from $8,926 to $36,250; 25% of all income from $36,251 to $87,850; 28% of all income from $87,851 to $183,250; 33% of all income from $183,251 to $398,350; 35% of all income from $398,351 to $400,000; and 39.6% on all income from $400,001 and above.
+Because of the many complex provisions in the rest of the tax code, the taxes owed by any individual cannot be exactly determined based on these numbers, but the numbers illustrate the basic theme that tax rates rise as the marginal dollar of income rises.
+Until the late 1970s, if nominal wages increased along with inflation, people were moved into higher tax brackets and owed a higher proportion of their income in taxes, even though their real income had not risen.
+This “bracket creep,” as it was called, was eliminated by law in 1981.
+Now, the income levels where higher tax rates kick in are indexed to rise automatically with inflation.
+The Social Security program offers two examples of indexing.
+Since the passage of the Social Security Indexing Act of 1972, the level of Social Security benefits increases each year along with the Consumer Price Index.
+Also, Social Security is funded by payroll taxes, which are imposed on the income earned up to a certain amount—$113,700 in 2013.
+This level of income is adjusted upward each year according to the rate of inflation, so that the indexed rise in the benefit level is accompanied by an indexed increase in the Social Security tax base.
+As yet another example of a government program affected by indexing, in 1996 the U.S., government began offering indexed bonds.
+Bonds are means by which the U.S.
+government (and many private-sector companies as well) borrows money; that is, investors buy the bonds, and then the government repays the money with interest.
+Traditionally, government bonds have paid a fixed rate of interest.
+This policy gave a government that had borrowed an incentive to encourage inflation, because it could then repay its past borrowing in inflated dollars at a lower real interest rate.
+But indexed bonds promise to pay a certain real rate of interest above whatever inflation rate occurs.
+In the case of a retiree trying to plan for the long term and worried about the risk of inflation, for example, indexed bonds that guarantee a rate of return higher than inflation—no matter the level of inflation—can be a very comforting investment.
+Might Indexing Reduce Concern over Inflation?
+Indexing may seem like an obviously useful step.
+After all, when individuals, firms, and government programs are indexed against inflation, then people can worry less about arbitrary redistributions and other effects of inflation.
+However, some of the fiercest opponents of inflation express grave concern about indexing.
+They point out that indexing is always partial.
+Not every employer will provide COLAs for workers.
+Not all companies can assume that costs and revenues will rise in lockstep with the general rates of inflation.
+Not all interest rates for borrowers and savers will change to match inflation exactly.
+But as partial inflation indexing spreads, the political opposition to inflation may diminish.
+After all, older people whose Social Security benefits are protected against inflation, or banks that have loaned their money with adjustable- rate loans, no longer have as much reason to care whether inflation heats up.
+In a world where some people are indexed against inflation and some are not, financially savvy businesses and investors may seek out ways to be protected against inflation, while the financially unsophisticated and small businesses may suffer from it most.
+A Preview of Policy Discussions of Inflation
+This chapter has focused on how inflation is measured, historical experience with inflation, how to adjust nominal variables into real ones, how inflation affects the economy, and how indexing works.
+The causes of inflation have barely been hinted at, and government policies to deal with inflation have not been addressed at all.
+These issues will be taken up in depth in other chapters.
+However, it is useful to offer a preview here.
+The cause of inflation can be summed up in one sentence: Too many dollars chasing too few goods.
+The great surges of inflation early in the twentieth century came after wars, which are a time when government spending is very high, but consumers have little to buy, because production is going to the war effort.
+Governments also commonly impose price controls during wartime.
+After the war, the price controls end and pent-up buying power surges forth, driving up inflation.
+On the other hand, if too few dollars are chasing too many goods, then inflation will decline or even turn into deflation.
+Therefore, slowdowns in economic activity, as in major recessions and the Great Depression, are typically associated with a reduction in inflation or even outright deflation.
+The policy implications are clear.
+If inflation is to be avoided, the amount of purchasing power in the economy must grow at roughly the same rate as the production of goods.
+Macroeconomic policies that the government can use to affect the amount of purchasing power—through taxes, spending, and regulation of interest rates and credit—can thus cause inflation to rise or reduce inflation to lower levels.
+
