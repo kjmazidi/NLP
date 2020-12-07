@@ -7,3 +7,4 @@ These notebooks explore a few additional Python tips:
 * path demo folder - a .py program showing how to make file paths cross-platform
 * pickle notebook shows how to pickle and unpickle an object
 * random notebook shows how to generate pseudo-random integers
+* Type 
