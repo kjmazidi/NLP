@@ -1,5 +1,5 @@
 # NLP
-Code Examples for CS 4395 Human Language Technologies
+Code Examples for the Natural Language Processing course I teach at The University of Texas at Dallas
 
 Videos available on my [YouTube channel](https://www.youtube.com/playlist?list=PLfe6IcA_dEWk_OYj4vLz5jBqvLTc7JJOc)
 
