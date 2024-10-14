@@ -1,4 +1,5 @@
 # Student Projects
+---
 
 I've been fortunate to have some amazing students over the years. I hope that many of them have kept up with NLP in their own projects. If you would like to showcase your work here, let me know. 
 ---
